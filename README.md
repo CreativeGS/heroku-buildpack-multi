@@ -1,3 +1,6 @@
+# Creative Note
+While deprecated, this pack is used to deploy composite (rails + react) apps like LAB. Be sure to refer to this repo in dokku's "BUILDPACK_URL" option.
+
 # Deprecated
 
 This project is deprecated and is no longer being maintained.
